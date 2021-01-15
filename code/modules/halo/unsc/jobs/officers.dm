@@ -7,7 +7,7 @@
 	department_flag = COM
 	outfit_type = /decl/hierarchy/outfit/job/unsc/commanding_officer
 	economic_modifier = 2.5
-	faction_whitelist = "UNSC"
+	//faction_whitelist = "UNSC"
 	access = list(\
 		access_unsc,\
 		access_unsc_cargo,\

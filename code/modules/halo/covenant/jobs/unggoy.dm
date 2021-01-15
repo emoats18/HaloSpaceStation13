@@ -23,7 +23,7 @@
 	spawn_positions = 1
 	outfit_type = /decl/hierarchy/outfit/unggoy/ultra
 	access = list(access_covenant, access_covenant_command, access_covenant_slipspace, access_covenant_cargo)
-	faction_whitelist = "Covenant"
+	//faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/unggoy)
 
 /datum/job/covenant/unggoy_heavy
@@ -33,7 +33,7 @@
 	open_slot_on_death = 1
 	outfit_type = /decl/hierarchy/outfit/unggoy/heavy
 	access = list(access_covenant, access_covenant_command, access_covenant_slipspace)
-	faction_whitelist = "Covenant"
+	//faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/unggoy)
 
 /datum/job/covenant/unggoy_deacon
@@ -42,7 +42,7 @@
 	spawn_positions = 1
 	outfit_type = /decl/hierarchy/outfit/unggoy/deacon
 	access = list(access_covenant, access_covenant_command, access_covenant_slipspace, access_covenant_cargo)
-	faction_whitelist = "Covenant"
+	//faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/unggoy)
 	pop_balance_mult = 1.5
 
@@ -57,7 +57,7 @@
 	access = list(access_covenant, access_covenant_command, access_covenant_slipspace)
 	spawn_positions = 0
 	total_positions = 0
-	faction_whitelist = "Covenant"
+	//faction_whitelist = "Covenant"
 
 /datum/job/covenant/unggoy_honour_guard
 	title = "Honour Guard Unggoy"
@@ -66,4 +66,4 @@
 	access = list(access_covenant, access_covenant_command, access_covenant_slipspace)
 	spawn_positions = 0
 	total_positions = 0
-	faction_whitelist = "Covenant"
+	//faction_whitelist = "Covenant"

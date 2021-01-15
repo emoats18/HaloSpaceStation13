@@ -11,7 +11,7 @@
 	total_positions = 2
 	spawn_positions = 2
 	outfit_type = /decl/hierarchy/outfit/kigyar/marksman
-	faction_whitelist = "Covenant"
+	//faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/kig_yar)
 
 /datum/job/covenant/kigyar_sniper
@@ -19,7 +19,7 @@
 	total_positions = 1
 	spawn_positions = 1
 	outfit_type = /decl/hierarchy/outfit/kigyar/marksman_beamrifle
-	faction_whitelist = "Covenant"
+	//faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/kig_yar)
 /*
 /datum/job/covenant/kigyarcorvette/captain

@@ -6,7 +6,7 @@
 	spawn_positions = 1
 	outfit_type = /decl/hierarchy/outfit/lesser_prophet
 	access = list(240,250)
-	faction_whitelist = "Covenant"
+	//faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/sanshyuum)
 	access = list(access_covenant, access_covenant_command, access_covenant_slipspace, access_covenant_cargo)
 	pop_balance_mult = 0.5

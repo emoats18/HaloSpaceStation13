@@ -62,7 +62,7 @@
 	title = "UEG Colonial AI"
 	spawn_faction = "Human Colony"
 	spawn_positions = 1
-	is_whitelisted = 1
+	//is_whitelisted = 1
 	outfit_type = /decl/hierarchy/outfit/job/colony_AI
 	req_admin_notify = 1
 	//job_guide = "Your responsibility is to aid the captain and ship's crew and you are given a vast amount of autonomy to that end. You are entirely loyal to the UNSC and your current mission however."

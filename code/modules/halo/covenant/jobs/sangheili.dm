@@ -6,7 +6,7 @@
 	spawn_positions = 1
 	track_players = TRUE
 	outfit_type = /decl/hierarchy/outfit/sangheili/shipmaster
-	is_whitelisted = 1
+	//is_whitelisted = 1
 	//faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/sangheili)
 	access = list(access_covenant, access_covenant_command, access_covenant_slipspace, access_covenant_cargo)
@@ -28,7 +28,7 @@
 	total_positions = 0
 	spawn_positions = 0
 	outfit_type = /decl/hierarchy/outfit/sangheili/honour_guard
-	is_whitelisted = TRUE
+	//is_whitelisted = TRUE
 	//faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/sangheili)
 	access = list(access_covenant, access_covenant_command, access_covenant_slipspace, access_covenant_cargo)
@@ -76,7 +76,7 @@
 	supervisors = "the Shipmaster"
 	outfit_type = /decl/hierarchy/outfit/sangheili/specops
 	access = list(access_covenant, access_covenant_command, access_covenant_slipspace)
-	is_whitelisted = TRUE
+	//is_whitelisted = TRUE
 	spawn_positions = 0
 	total_positions = 0
 	//faction_whitelist = "Covenant"

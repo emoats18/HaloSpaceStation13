@@ -10,7 +10,7 @@
 	selection_color = "#0A0A95"
 	access = list(142,309)
 	spawnpoint_override = "UNSC Aegis Ship Crew Spawn"
-	is_whitelisted = 1
+	//is_whitelisted = 1
 
 /datum/job/unscaegis_co
 	title = "UNSC Aegis Commanding Officer"
@@ -20,7 +20,7 @@
 	selection_color = "#0A0A95"
 	access = list(142,309,143,144,145)
 	spawnpoint_override = "UNSC Aegis Ship Crew Spawn"
-	is_whitelisted = 1
+	//is_whitelisted = 1
 
 //UNSC Aegis ODST Jobs
 
@@ -41,7 +41,7 @@
 	selection_color = "#0A0A95"
 	access = list(142,144,110,192,309,310)
 	spawnpoint_override = "UNSC Aegis ODST Spawn"
-	is_whitelisted = 1
+	//is_whitelisted = 1
 
 /datum/job/aegisODSTOONI
 	title = "''ONI'' Orbital Drop Shock Trooper Officer"
@@ -57,4 +57,4 @@
 	selection_color = "#0A0A95"
 	access = list(142,144,145,110,192,300,306,309,310,311)
 	spawnpoint_override = "UNSC Aegis ODST Officer Spawn"
-	is_whitelisted = 1
+	//is_whitelisted = 1

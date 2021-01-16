@@ -11,7 +11,7 @@
 	req_admin_notify = 1
 	spawnpoint_override = "UNSC Base Spawns"
 	outfit_type = /decl/hierarchy/outfit/job/UNSC_ship/marine_co
-	is_whitelisted = 1
+	//is_whitelisted = 1
 	//job_guide = "Your responsibility is to command the shipboard complement of marines. Nominally you answer to the captain, but he has limited control over you once deployed. Remember that a good soldier leads from the front, but you can't lead if you're dead."
 
 	access = list(access_unsc_bridge, access_unsc_crew, access_unsc_shuttles,

@@ -1,6 +1,7 @@
 #define STALEMATE_TIMER 60 MINUTES
 #define BASE_ASSAULT_ONEFLANK_THRESHOLD 15
 #define BASE_ASSAULT_TWOFLANK_THRESHOLD 30
+#define RESPAWN_TIME 5
 
 /datum/game_mode/base_assault
 	name = "Base Assault"

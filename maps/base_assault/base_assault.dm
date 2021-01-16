@@ -1,4 +1,5 @@
 #include "base_assault_gm.dm"
+#define RESPAWN_TIME 5
 
 /datum/map/base_assault
 	name = "UNSC Outpost"

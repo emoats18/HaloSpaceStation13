@@ -65,7 +65,7 @@
 	allowed_jobs = list(\
 	/datum/job/unsc/marine,
 	/datum/job/unsc/marine/specialist,
-	/datum/job/unsc/marine/hellbringer,\
+	//datum/job/unsc/marine/hellbringer,
 	/datum/job/unsc/marine/squad_leader,
 	/datum/job/unsc/odst,
 	/datum/job/unsc/odst/squad_leader,
@@ -74,13 +74,16 @@
 	/datum/job/geminus_innie,
 	/datum/job/geminus_innie/officer,
 	/datum/job/geminus_innie/commander,
+	///datum/job/soe_commando,
 	/datum/job/geminus_innie/orion_defector,
 	)
 
 	allowed_spawns = list(\
 		DEFAULT_SPAWNPOINT_ID,\
 		"UNSC Base Spawns",\
-		"UNSC Base Fallback Spawns"\
+		"UNSC Base Fallback Spawns",\
+		//"SOE Commando",\
+
 		)
 
 	default_spawn = DEFAULT_SPAWNPOINT_ID

@@ -8,7 +8,8 @@
 	generate_email = 1
 	account_allowed = 1
 	access = list(access_innie)
-	outfit_type = /decl/hierarchy/outfit/job/colonist/geminus_innie
+	outfit_type = /decl/hierarchy/outfit/job/geminus_innie
+	//outfit_type = /decl/hierarchy/outfit/job/colonist/geminus_innie
 	selection_color = "#ff0000"
 	alt_titles = list(\
 	"Insurrectionist Ship Crew",
@@ -83,6 +84,7 @@
 	selection_color = "#ff0000"
 	//faction_whitelist = "Insurrection"
 	alt_titles = null
+	outfit_type = /decl/hierarchy/outfit/job/geminus_innie_leader
 
 /datum/job/geminus_innie/commander/equip(var/mob/living/carbon/human/H, var/alt_title, var/datum/mil_branch/branch)
 	. = ..()

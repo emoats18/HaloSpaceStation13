@@ -14,14 +14,6 @@
 
 	flags = 0
 
-/decl/hierarchy/outfit/job/geminus_innie/equip_id(mob/living/carbon/human/H, rank, assignment)
-	. = ..()
-
-	var/obj/item/weapon/card/id/W = .
-	if(W)
-		W.rank = "Colonist"
-		W.assignment = "Colonist"
-		W.update_name()
 
 /decl/hierarchy/outfit/job/geminus_innie_leader
 	name = "Insurrectionist Captain"
@@ -38,14 +30,6 @@
 
 	flags = 0
 
-/decl/hierarchy/outfit/job/geminus_innie_leader/equip_id(mob/living/carbon/human/H, rank, assignment)
-	. = ..()
-
-	var/obj/item/weapon/card/id/W = .
-	if(W)
-		W.rank = "Colonist"
-		W.assignment = "Colonist"
-		W.update_name()
 
 /decl/hierarchy/outfit/job/colonist/geminus_innie
 	name = "Geminus Insurrectionist"
@@ -67,11 +51,3 @@
 
 	flags = 0
 
-/decl/hierarchy/outfit/job/colonist/geminus_innie_orion_defector/equip_id(mob/living/carbon/human/H, rank, assignment)
-	. = ..()
-
-	var/obj/item/weapon/card/id/W = .
-	if(W)
-		W.rank = "Colonist"
-		W.assignment = "Colonist"
-		W.update_name()

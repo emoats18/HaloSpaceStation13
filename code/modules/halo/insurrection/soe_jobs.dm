@@ -1,12 +1,12 @@
 /datum/job/soe_commando
-	title = "SOE Commando"
+	title = "URF Commando"
 	spawn_faction = "Insurrection"
 	latejoin_at_spawnpoints = 1
 	outfit_type = /decl/hierarchy/outfit/job/soe_commando
-	alt_titles = list("SOE Initiate",\
-	"SOE Trooper",\
-	"SOE Corporal",\
-	"SOE Surgeon")
+	alt_titles = list("URFC Initiate",\
+	"URFC Trooper",\
+	"URFC Corporal",\
+	"URFC Surgeon")
 
 	total_positions = 8
 	spawn_positions = 8
@@ -16,13 +16,13 @@
 	whitelisted_species = list(/datum/species/human)
 
 /datum/job/soe_commando_officer
-	title = "SOE Commando Officer"
+	title = "URF Commando Officer"
 	spawn_faction = "Insurrection"
 	latejoin_at_spawnpoints = 1
 	outfit_type = /decl/hierarchy/outfit/job/soe_commando_officer
-	alt_titles = list("SOE Sergeant",\
-	"SOE Adjutant",\
-	"SOE Lieutenant")
+	alt_titles = list("URFC Sergeant",\
+	"URFC Adjutant",\
+	"URFC Lieutenant")
 
 	total_positions = 2
 	spawn_positions = 2
@@ -32,12 +32,12 @@
 	whitelisted_species = list(/datum/species/human)
 
 /datum/job/soe_commando_captain
-	title = "SOE Commando Captain"
+	title = "URF Commando Captain"
 	spawn_faction = "Insurrection"
 	latejoin_at_spawnpoints = 1
 	outfit_type = /decl/hierarchy/outfit/job/soe_commando_captain
-	alt_titles = list("SOE Commander",\
-	"SOE Captain")
+	alt_titles = list("URFC Commander",\
+	"URFC Captain")
 
 	total_positions = 1
 	spawn_positions = 1

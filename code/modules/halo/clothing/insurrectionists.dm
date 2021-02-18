@@ -48,7 +48,7 @@
 	item_state = "glovesworn"
 	icon_state = "gloveobj"
 	force = 5
-	armor = list(melee = 20, bullet = 20, laser = 0,energy = 5, bomb = 0, bio = 0, rad = 0)
+	armor = list(melee = 30, bullet = 40, laser = 10, energy = 25, bomb = 15, bio = 0, rad = 0)//Same as marine gloves
 
 /obj/item/clothing/shoes/x52boots
 	name = "X-52 Jackboots"
@@ -186,7 +186,22 @@
 
 /obj/item/clothing/head/helmet/innie/medium
 	desc = "The LV28D an armored helmet composed of materials salvaged from a wide array of UNSC equipment for a standard equal to the CH252 Helmet design crafted by X-52 for the new armor series being rolled out from Eridanus Secundus"
+	item_flags = THICKMATERIAL
+	body_parts_covered = HEAD
 	armor = list(melee = 50, bullet = 30, laser = 50,energy = 20, bomb = 25, bio = 0, rad = 0)
+	flags_inv = HIDEEARS|HIDEEYES
+	cold_protection = HEAD
+	min_cold_protection_temperature = HELMET_MIN_COLD_PROTECTION_TEMPERATURE
+	heat_protection = HEAD
+	max_heat_protection_temperature = HELMET_MAX_HEAT_PROTECTION_TEMPERATURE
+	siemens_coefficient = 0.7
+	w_class = 3
+
+	action_button_name = "Toggle Helmet Light"
+	light_overlay = "helmet_light"
+	brightness_on = 4
+
+	integrated_hud = /obj/item/clothing/glasses/hud/tactical // Same as marine helmet
 
 /obj/item/clothing/head/helmet/innie/medium/brown
 	name = "LV28D Armored Helmet - Brown Camo"
@@ -311,7 +326,15 @@
 
 /obj/item/clothing/shoes/innie_boots/medium
 	desc = "An older standard issue combat boots model of the VZG7 Armored Boots."
-	armor = list(melee = 40, bullet = 40, laser = 5, energy = 20, bomb = 15, bio = 0, rad = 0)
+	force = 5
+	armor = list(melee = 40, bullet = 40, laser = 5, energy = 30, bomb = 15, bio = 0, rad = 0)
+	siemens_coefficient = 0.6
+	body_parts_covered = FEET|LEGS
+	can_hold_knife = 1
+	cold_protection = FEET
+	min_cold_protection_temperature = SHOE_MIN_COLD_PROTECTION_TEMPERATURE
+	heat_protection = FEET
+	max_heat_protection_temperature = SHOE_MAX_HEAT_PROTECTION_TEMPERATURE
 
 /obj/item/clothing/shoes/innie_boots/medium/blue
 	name = "VZG4D Armored Boots - Blue Camo"
@@ -391,7 +414,10 @@
 	item_state = "m_innie_chest_blue"
 	icon_state = "m_innie_chest_obj_blue"
 	blood_overlay_type = "m_innie_chest_blue"
-	armor = list(melee = 50, bullet = 55, laser = 40, energy = 45, bomb = 35, bio = 0, rad = 0)
+	body_parts_covered = ARMS|UPPER_TORSO|LOWER_TORSO
+	armor = list(melee = 55, bullet = 50, laser = 55, energy = 45, bomb = 40, bio = 25, rad = 25) //Exact same as marine armor
+	armor_thickness = 20
+	allowed = list(/obj/item/device/flashlight,/obj/item/weapon/gun/projectile,/obj/item/ammo_magazine,/obj/item/ammo_casing,/obj/item/weapon/storage/fancy/cigarettes,/obj/item/weapon/flame/lighter)
 
 /obj/item/clothing/suit/storage/innie/medium/blue
 	name = "M22D Body Armor - Blue Camo"

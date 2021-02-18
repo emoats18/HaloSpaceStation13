@@ -35,6 +35,7 @@
 	"Insurrectionist Recruiter",\
 	"Insurrectionist Saboteur",\
 	"Insurrectionist Infiltrator")
+	spawnpoint_override = "Innie Base Spawns"
 	whitelisted_species = list(/datum/species/human)
 	loadout_allowed = TRUE
 	var/datum/antagonist/geminus_insurrectionist/antag
@@ -83,6 +84,7 @@
 	access = list(access_innie, access_innie_boss)
 	selection_color = "#ff0000"
 	//faction_whitelist = "Insurrection"
+	spawnpoint_override = "Innie Base Spawns"
 	alt_titles = null
 	outfit_type = /decl/hierarchy/outfit/job/geminus_innie_leader
 
@@ -98,6 +100,7 @@
 	whitelisted_species = list(/datum/species/orion)
 	total_positions = 2
 	spawn_positions = 2
+	spawnpoint_override = "Innie Base Spawns"
 	//faction_whitelist = "Insurrection"
 
 /datum/job/insurrectionist_ai

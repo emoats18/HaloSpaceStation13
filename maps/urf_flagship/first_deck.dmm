@@ -40,7 +40,7 @@
 "aN" = (/obj/machinery/atmospherics/portables_connector{icon_state = "map_connector"; dir = 4},/obj/machinery/portable_atmospherics/powered/pump,/turf/simulated/floor/plating,/area/urf_flagship/powercore)
 "aO" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 10},/turf/simulated/floor/plating,/area/urf_flagship/powercore)
 "aP" = (/turf/simulated/wall/r_wall,/area/urf_flagship/Bridge)
-"aQ" = (/obj/structure/bed,/obj/item/weapon/bedsheet/hos,/obj/effect/landmark/start/geminus_innie,/turf/simulated/floor/holofloor/wood,/area/urf_flagship/Troopbunks)
+"aQ" = (/obj/structure/bed,/obj/item/weapon/bedsheet/hos,/obj/effect/landmark/start/innie_base,/turf/simulated/floor/holofloor/wood,/area/urf_flagship/Troopbunks)
 "aR" = (/obj/structure/table/standard,/obj/item/device/flashlight/lamp/green,/obj/structure/closet/walllocker/emerglocker/north,/obj/machinery/light{dir = 1; icon_state = "tube1"},/turf/simulated/floor/holofloor/wood,/area/urf_flagship/Troopbunks)
 "aS" = (/turf/simulated/floor/tiled/dark,/area/urf_flagship/Troopbunks)
 "aT" = (/obj/effect/floor_decal/corner/red{icon_state = "corner_white"; dir = 6},/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/tiled/dark,/area/urf_flagship/Centralhallway)
@@ -90,7 +90,7 @@
 "bL" = (/obj/machinery/light/small{dir = 1},/obj/machinery/camera/autoname/invis/innie_base,/turf/simulated/floor/holofloor/wood,/area/urf_flagship/captainroom)
 "bM" = (/turf/simulated/floor/holofloor/wood,/area/urf_flagship/captainroom)
 "bN" = (/obj/machinery/door/airlock/hatch{name = "Captain's Quarters"; req_access = list(858)},/obj/machinery/door/firedoor,/turf/simulated/floor/holofloor/wood,/area/urf_flagship/captainroom)
-"bO" = (/obj/structure/bed,/obj/item/weapon/bedsheet/hos,/obj/effect/landmark/start/commando_captain_spawn,/obj/machinery/camera/autoname/invis/innie_base{icon_state = "camera"; dir = 8},/turf/simulated/floor/holofloor/wood,/area/urf_flagship/captainroom)
+"bO" = (/obj/structure/bed,/obj/item/weapon/bedsheet/hos,/obj/machinery/camera/autoname/invis/innie_base{icon_state = "camera"; dir = 8},/turf/simulated/floor/holofloor/wood,/area/urf_flagship/captainroom)
 "bP" = (/obj/machinery/door/airlock/hatch,/obj/machinery/door/firedoor,/turf/simulated/floor/holofloor/wood,/area/urf_flagship/Troopbunks)
 "bQ" = (/obj/structure/closet/walllocker/emerglocker/west,/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/tiled/dark,/area/urf_flagship/Troopbunks)
 "bR" = (/obj/machinery/light/small{icon_state = "bulb1"; dir = 8},/turf/simulated/floor/plating,/area/urf_flagship/powercore)
@@ -117,7 +117,7 @@
 "cm" = (/obj/structure/table/woodentable,/obj/machinery/light/small{icon_state = "bulb1"; dir = 4},/obj/item/weapon/storage/secure/briefcase/money{startswith = list(/obj/item/weapon/spacecash/bundle/credits1000 = 15)},/turf/simulated/floor/holofloor/wood,/area/urf_flagship/captainroom)
 "cn" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/tiled/dark,/area/urf_flagship/Troopbunks)
 "co" = (/obj/machinery/camera/autoname/invis/innie_base{icon_state = "camera"; dir = 8},/turf/simulated/floor/tiled/dark,/area/urf_flagship/Troopbunks)
-"cp" = (/obj/effect/landmark/start/geminus_innie{name = "Insurrectionist Officer"},/turf/simulated/floor/holofloor/wood,/area/urf_flagship/Troopbunks)
+"cp" = (/obj/effect/landmark/start/innie_base,/turf/simulated/floor/tiled/dark,/area/urf_flagship/Troopbunks)
 "cq" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/tiled/dark,/area/urf_flagship/Troopbunks)
 "cr" = (/obj/effect/floor_decal/corner/red{icon_state = "corner_white"; dir = 6},/obj/structure/cable/blue{icon_state = "2-4"},/turf/simulated/floor/tiled/dark,/area/urf_flagship/Centralhallway)
 "cs" = (/obj/structure/cable/blue{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/urf_flagship/medicalbay)
@@ -148,7 +148,7 @@
 "cR" = (/obj/effect/bomblocation,/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
 "cS" = (/obj/structure/closet/walllocker/emerglocker/north,/obj/structure/table/standard,/obj/machinery/camera/autoname/invis/innie_base,/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
 "cT" = (/obj/machinery/overmap_weapon_console/npc_comms_console/innie,/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
-"cU" = (/obj/structure/bed/chair/comfy/captain{dir = 1; icon_state = "capchair_preview"; name = "Bridge chair"; tag = "icon-capchair_preview (NORTH)"},/obj/effect/landmark/start/commando_officer_spawn,/obj/effect/landmark/start/commando_spawn,/obj/effect/bomblocation,/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
+"cU" = (/obj/effect/bomblocation,/obj/effect/landmark/start/innie_base,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
 "cV" = (/obj/structure/table/woodentable,/obj/item/weapon/folder/red,/turf/simulated/floor/holofloor/wood,/area/urf_flagship/captainroom)
 "cW" = (/obj/structure/table/woodentable,/obj/item/weapon/paper_bin,/obj/item/weapon/pen,/turf/simulated/floor/holofloor/wood,/area/urf_flagship/captainroom)
 "cX" = (/obj/machinery/power/apc{dir = 8; name = "APC"; pixel_x = -24},/obj/structure/cable/blue{icon_state = "0-2"},/turf/simulated/floor/tiled/dark,/area/urf_flagship/Troopbunks)
@@ -180,7 +180,7 @@
 "dx" = (/obj/structure/reagent_dispensers/fueltank,/turf/simulated/floor/plating,/area/urf_flagship/powercore)
 "dy" = (/obj/machinery/atmospherics/pipe/simple/visible{icon_state = "intact"; dir = 5},/turf/simulated/floor/plating,/area/urf_flagship/powercore)
 "dz" = (/obj/machinery/atmospherics/pipe/tank/air{icon_state = "air_map"; dir = 8},/turf/simulated/floor/plating,/area/urf_flagship/powercore)
-"dA" = (/obj/structure/bed/chair/comfy/captain{dir = 8; icon_state = "capchair_preview"; name = "Bridge chair"; tag = "icon-capchair_preview (WEST)"},/obj/effect/landmark/start/commando_officer_spawn,/obj/effect/landmark/start/commando_spawn,/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
+"dA" = (/obj/structure/bed/chair/comfy/captain{dir = 1; icon_state = "capchair_preview"; name = "Bridge chair"; tag = "icon-capchair_preview (NORTH)"},/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
 "dB" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/obj/machinery/button/toggle/alarm_button/urf_flagship_alarm{dir = 8; icon_state = "launcherbtt"; pixel_x = 20},/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
 "dC" = (/obj/structure/computerframe{anchored = 1; dir = 8; icon = 'code/modules/halo/icons/machinery/computer.dmi'; icon_state = "computer"; layer = 2; level = 1; tag = "icon-computer (WEST)"},/obj/machinery/overmap_weapon_console/deck_gun_control/local{icon = 'code/modules/halo/icons/machinery/computer.dmi'; icon_state = "nav"; dir = 8},/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
 "dD" = (/obj/structure/bed/chair{icon_state = "chair_preview"; dir = 1},/turf/simulated/floor/holofloor/wood,/area/urf_flagship/captainroom)
@@ -261,7 +261,7 @@
 "fa" = (/obj/effect/floor_decal/industrial/warning{icon_state = "warning"; dir = 9},/turf/simulated/floor/plating,/area/urf_flagship/powercore)
 "fb" = (/obj/structure/cable/blue{icon_state = "1-2"},/obj/effect/floor_decal/industrial/warning/corner{icon_state = "warningcorner"; dir = 1},/obj/machinery/camera/autoname/invis/innie_base{icon_state = "camera"; dir = 8},/turf/simulated/floor/plating,/area/urf_flagship/powercore)
 "fc" = (/obj/machinery/button/remote/blast_door{id = "slipspace_osprey"; name = "Slipspace Engine"},/turf/simulated/wall/r_wall,/area/urf_flagship/powercore)
-"fd" = (/obj/structure/bed/chair/comfy/captain{dir = 1; icon_state = "capchair_preview"; name = "Bridge chair"; tag = "icon-capchair_preview (NORTH)"},/obj/effect/landmark/start/commando_spawn,/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
+"fd" = (/obj/structure/bed/chair/comfy/captain{dir = 1; icon_state = "capchair_preview"; name = "Bridge chair"; tag = "icon-capchair_preview (NORTH)"},/obj/effect/bomblocation,/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
 "fe" = (/obj/structure/cable/blue{icon_state = "1-4"},/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
 "ff" = (/obj/machinery/door/blast/regular/open{id = "urf_prowler_bridge_lockdown"},/obj/structure/cable/blue{icon_state = "4-8"},/obj/effect/bomblocation,/turf/simulated/floor/tiled/dark,/area/urf_flagship/Bridge)
 "fg" = (/obj/structure/computerframe{anchored = 1; dir = 8; icon = 'code/modules/halo/icons/machinery/computer.dmi'; icon_state = "computer"; layer = 2; level = 1; tag = "icon-computer (WEST)"},/obj/machinery/computer/helm{tag = "icon-nav (WEST)"; icon = 'code/modules/halo/icons/machinery/computer.dmi'; icon_state = "nav"; dir = 8; icon_keyboard = ""; icon_screen = "covie_console_overlay"},/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
@@ -288,7 +288,6 @@
 "fB" = (/obj/machinery/light/colored/red{dir = 8},/turf/simulated/floor/plating,/area/urf_flagship/powercore)
 "fC" = (/obj/structure/ai_routing_node/innie,/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
 "fD" = (/obj/machinery/camera/autoname/invis/innie_base{icon_state = "camera"; dir = 8},/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
-"fE" = (/obj/structure/bed/chair/comfy/captain{name = "Bridge chair"},/obj/effect/landmark/start/commando_spawn,/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
 "fF" = (/obj/structure/table/standard,/obj/machinery/photocopier/faxmachine/innie,/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
 "fG" = (/obj/vehicles/cobra,/turf/simulated/floor/tiled/dark,/area/urf_flagship/Centralhallway)
 "fH" = (/obj/effect/floor_decal/corner/red/three_quarters,/turf/simulated/floor/tiled/dark,/area/urf_flagship/Centralhallway)
@@ -373,7 +372,7 @@
 "hi" = (/obj/effect/decal/cleanable/blood/oil,/turf/simulated/floor/tiled,/area/urf_flagship/storageroom4)
 "hj" = (/turf/simulated/floor/tiled,/area/urf_flagship/storageroom4)
 "hk" = (/obj/effect/floor_decal/industrial/hatch/yellow,/obj/structure/closet/crate,/obj/item/stack/material/glass/fifty,/obj/machinery/light{icon_state = "tube1"; dir = 4},/obj/effect/decal/cleanable/dirt,/obj/machinery/power/apc{dir = 4; name = "APC"; pixel_x = 24; pixel_y = 0},/obj/structure/cable/blue{icon_state = "0-2"},/turf/simulated/floor/tiled,/area/urf_flagship/storageroom4)
-"hl" = (/obj/structure/bed/chair/comfy/captain{dir = 1; icon_state = "capchair_preview"; name = "Bridge chair"; tag = "icon-capchair_preview (NORTH)"},/obj/effect/landmark/start/commando_officer_spawn,/obj/effect/landmark/start/commando_spawn,/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
+"hl" = (/obj/structure/cable/blue{icon_state = "1-2"},/obj/effect/landmark/start/innie_base,/turf/simulated/floor/tiled/dark,/area/urf_flagship/Troopbunks)
 "hm" = (/obj/vehicles/bull,/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/tiled/dark,/area/urf_flagship/Centralhallway)
 "hn" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/tiled/dark,/area/urf_flagship/Centralhallway)
 "ho" = (/obj/structure/table/rack,/obj/item/device/bot_kit,/turf/simulated/floor/tiled/dark,/area/urf_flagship/Troopbunks)
@@ -384,7 +383,7 @@
 "ht" = (/obj/structure/drop_pod_launchbay,/turf/simulated/floor,/area/urf_flagship/Armory)
 "hu" = (/obj/item/weapon/stool/padded,/turf/simulated/floor/tiled/dark,/area/urf_flagship/Armory)
 "hv" = (/obj/machinery/pointbased_vending/armory/commandovend,/turf/simulated/floor/tiled/dark,/area/urf_flagship/Armory)
-"hw" = (/obj/structure/bed/chair/comfy/captain{name = "Bridge chair"},/obj/effect/landmark/start/commando_officer_spawn,/obj/effect/landmark/start/commando_spawn,/obj/effect/bomblocation,/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
+"hw" = (/obj/structure/bed/chair/comfy/captain{dir = 8; icon_state = "capchair_preview"; name = "Bridge chair"; tag = "icon-capchair_preview (WEST)"},/obj/effect/bomblocation,/obj/effect/landmark/start/innie_base,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
 "hx" = (/obj/effect/floor_decal/corner/red{icon_state = "corner_white"; dir = 9},/obj/structure/cable/blue{icon_state = "1-4"},/turf/simulated/floor/tiled/dark,/area/urf_flagship/Centralhallway)
 "hy" = (/obj/structure/cable/blue{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/urf_flagship/Messhall)
 "hz" = (/obj/structure/cable/blue{icon_state = "4-8"},/obj/structure/cable/blue{icon_state = "1-8"},/turf/simulated/floor/tiled,/area/urf_flagship/Messhall)
@@ -400,7 +399,7 @@
 "hJ" = (/obj/structure/cable/blue{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/urf_flagship/storageroom4)
 "hK" = (/obj/effect/decal/cleanable/dirt,/obj/structure/cable/blue{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/urf_flagship/storageroom4)
 "hL" = (/obj/structure/cable/blue{icon_state = "1-8"},/turf/simulated/floor/tiled,/area/urf_flagship/storageroom4)
-"hM" = (/obj/structure/bed/chair/comfy/captain{name = "Bridge chair"},/obj/effect/landmark/start/commando_officer_spawn,/obj/effect/landmark/start/commando_spawn,/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
+"hM" = (/obj/effect/floor_decal/corner/red{icon_state = "corner_white"; dir = 5},/obj/structure/cable/blue{icon_state = "4-8"},/obj/machinery/light{dir = 1},/obj/effect/landmark/start/innie_base,/turf/simulated/floor/tiled/dark,/area/urf_flagship/Centralhallway)
 "hN" = (/obj/vehicles/air/overmap/pelican/urf{icon_state = "inni-base"; dir = 1},/obj/effect/landmark/dropship_land_point/innie{name = "Starboard Hangar"},/turf/simulated/floor/tiled/dark,/area/urf_flagship/Centralhallway)
 "hO" = (/obj/structure/drop_pod_launchbay,/obj/vehicles/drop_pod/overmap/boarding_pod/south,/turf/simulated/floor,/area/urf_flagship/Armory)
 "hP" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/tiled/dark,/area/urf_flagship/Centralhallway)
@@ -531,11 +530,15 @@
 "kk" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/obj/effect/decal/cleanable/blood/oil/streak,/turf/simulated/floor/carpet,/area/urf_flagship/Armory)
 "kl" = (/obj/effect/landmark/dropship_land_point/innie{name = "Port Hangar"},/turf/simulated/floor/tiled/dark,/area/urf_flagship/Centralhallway)
 "km" = (/obj/structure/closet/crate/radiation_gear,/turf/simulated/floor/plating,/area/urf_flagship/powercore)
-"kn" = (/obj/effect/landmark/start/geminus_innie{name = "Insurrectionist Orion Defector"},/turf/simulated/floor/holofloor/wood,/area/urf_flagship/Troopbunks)
+"kn" = (/obj/structure/bed/chair/comfy/captain{name = "Bridge chair"},/obj/effect/bomblocation,/obj/effect/landmark/start/innie_base,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
+"ko" = (/obj/effect/floor_decal/corner/red{icon_state = "corner_white"; dir = 10},/obj/effect/landmark/start/innie_base,/turf/simulated/floor/tiled/dark,/area/urf_flagship/Centralhallway)
+"kp" = (/obj/effect/floor_decal/corner/red{icon_state = "corner_white"; dir = 10},/obj/machinery/light,/obj/effect/landmark/start/innie_base,/turf/simulated/floor/tiled/dark,/area/urf_flagship/Centralhallway)
+"kq" = (/obj/structure/bed/chair/comfy/captain{name = "Bridge chair"},/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
 "kr" = (/obj/machinery/door/airlock/hatch{name = "Captain's Quarters"; req_access = list(858)},/turf/simulated/floor/holofloor/wood,/area/urf_flagship/captainroom)
 "ks" = (/obj/machinery/light/small{tag = "icon-bulb1 (EAST)"; icon_state = "bulb1"; dir = 4},/turf/simulated/floor/holofloor/wood,/area/urf_flagship/captainroom)
 "kt" = (/obj/structure/table/rack,/obj/item/clothing/suit/storage/x52armor/medium,/obj/item/clothing/suit/storage/x52armor/medium,/turf/simulated/floor/holofloor/wood,/area/urf_flagship/captainroom)
 "ku" = (/obj/structure/table/rack,/turf/simulated/floor/holofloor/wood,/area/urf_flagship/captainroom)
+"kv" = (/obj/structure/bed/chair/comfy/captain{name = "Bridge chair"},/obj/effect/bomblocation,/obj/effect/bomblocation,/turf/simulated/floor/tech,/area/urf_flagship/Bridge)
 "pR" = (/obj/structure/table/rack,/obj/item/clothing/suit/storage/x52armor/light,/obj/item/clothing/suit/storage/x52armor/light,/turf/simulated/floor/holofloor/wood,/area/urf_flagship/captainroom)
 "tW" = (/obj/effect/floor_decal/industrial/warning,/obj/machinery/atmospherics/portables_connector,/turf/simulated/floor/plating,/area/urf_flagship/powercore)
 "zV" = (/obj/effect/floor_decal/corner/red{icon_state = "corner_white"; dir = 9},/obj/machinery/power/apc{dir = 8; name = "APC"; pixel_x = -24},/obj/structure/cable/blue{icon_state = "0-2"},/obj/machinery/door/airlock/multi_tile/halo/blast{dir = 2},/turf/simulated/floor/tiled/dark,/area/urf_flagship/Centralhallway)
@@ -621,19 +624,19 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeIaPaPaPaPaPaPaPaPaPaPaPaPaPaPasasasasasangO
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeIaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPasasaspRkuasgOaSaSjWaSaSjWiraSgCanajamajauavawavavaxavavavavavavavawaxavawavavavavavavavaxavavawavavdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcavavawavaxavavavavavavavaxawavayajajazaAazajajajajaqajajamamamamamamamajaBaBaBajaCaDaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPasbMkrbMksasananananjZaSanananananajamajaEaFaGaHaHaHaHaHaHaHaHaHdKaGaIaJaGaHaHaHaHaHdKaHaHaHaHaGaIaJdcgtgtgtgtgtgteZgtgtgteZgtgtgtfGgtdcaIaJaGdKaHaHaHaHaHaHaHaHaHaGaIaKajajaLaMaLajajamaoamamajajajajajajajajaNaOamamajaCaDaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPasksasktkuasaQaRaQanaSaSanaQaRaQanajamajaEaTaUaUaUaUaUaUaUaUaUaUaUaUaVaTaWaWaWaWaWaWaWaWaWaWaWaWaVaTdchmgtgtgtgtgtgtgtgtgtgtgtgtgtgthndcaVaTaXaXaXaXaXaXaXaXaXaXaXaXaVaKajajaLaLaLajajaYCFbabbajbcbdbebfbgbhajaNbiamamajaCaDaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaskrasasasasbjcpknanbkirankncpbjanajamajaEaKaUblbmbnbobpbqakakbtbuaUaEaKaWbvbwbwbwbxbwbwbwbwbyaWaEaKdcgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtdcaEaKaXbzbAbBbCbDbBbAbEbFbAaXaEaKajajajbGajajajamamamamajbHamamamamamajbIbibJambKaCaDaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaskrasasasasbjbjbjanbkiranbjbjbjanajamajaEaKaUblbmbnbobpbqakakbtbuaUaEaKaWbvbwbwbwbxbwbwbwbwbyaWaEaKdcgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtdcaEaKaXbzbAbBbCbDbBbAbEbFbAaXaEaKajajajbGajajajamamamamajbHamamamamamajbIbibJambKaCaDaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaPaPaPiqaPaPaPaPaPaPiqaPbLbMbNbMbOasanbPananbQaSananbPananajbRajaEaKaUbSbnbnkabnbTbnbTkabVaUaEaKaWbWeDeDeDeDeDeDeDeDbYaWaEbZgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtaEbZaXcabCbEbBbAbFbzbFbFcbaXaEaKajccaLaLaLccajajajaqajajamamamamamamcdamceamamajcfaDaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaPaZaZaZcgchcgcichcRaZaPcjckasclcmiAcnaSaSaScogPaSaSaScqijajaoajaEcrcscscscscscscscscscsctcscucvbwcweDcxcycyczcAcBcCcDbwcucvgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtcucvcEcEcEcEcEcEcEcEcEcEcFcGaEaKajcHaLaLaLccajcIcJamamcKcLcLcLcMamcNajamcOcPcQajaCaDaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaPaZcScThBhlhBhBcUcRaZaPcVcWasbNasasanbPanancXcYananbPananajamajaEcZdabnkabnbndbkbalddbnbndWaEaKdXdgdhcycycydidjcBcCdkdXaEaKkfgtgtgtgtgtgthNgtgtgtgtgtgtgtgtgtkfaEaKdfcGcGcGcGdmdncGcGcGcGdfaEbZajdoaLdpaLdqajcIdrcLtWdtamamamcJamdxajamdycPdzajaCaDaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaZdldAhBhBhBhBhBhBdBaZaPdDdEdFbMdGasbjcpknandHaSankncpbjanajamajaEcZaUdIdJdJbrdLbnbTbTkadMaUaEaKaWdNeDcydOcycycycBcCdPaWaEaKdchPgtgtgtgtgtgtgtgtgtgtgtgtgtgthndcaEaKaXdQbDbFdRdRbBbFdSdTdUaXaEaKajccaLaLaLdVajamamamamamamWhiteeamefajegamehajajajaDaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaZdCdAhBhBdYeiejhBhBekaZbMbMeneoepasaQeqaQandHaSanaQeqaQanajamajzVcZaUeseteuevewexeyezeAeBaUWnaKaWeCbXeDeDeDeDeDeDeDeEaWWnaKdchZgtgtgtgtgtiTjXgtiTgtgtgtgtgthZdcWnaKaXbAbFbFbAeFeGdSeHeHbAaXWnaKajccaLaLaLccajamamamamamamamameKeLeMajajeNajajajajajaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaZelhBhBhBemcieOhBhBePaZasaseSasasasananananeTaSanananananajaqajeUeVaUaUaUaUaUaUaUaUaUaUaUaUaVaKaWaWaWaWaWaWaWaWaWaWaWaWaVaTdcdcdcdcjYgtdcdcdcdcdcdcjYgtdcdcdcdcaVaTaXaXaXaXaXaXaXaXaXaXaXaXaVaKajajajbGajajajeWeXeYamamamfaeXfbfcajajajajajajaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPeQdAhBeRhBfdcieOhBiMfefffhfifjfkfkfkflfkfkfifmfkfifkiSfkfkfnfofhfpfqfravavavavaxavavavavavfrfsfqftavavavaviXavaxavavavfrfufqfravavavavavavfravavfravavavavavavfrfufqfravaxavavavavavavavaxfrfuaKfvfvfwjbfwfvamamamfxeXeXeXfyamfzfAamfBajajajaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPfgdAhBfCfDfEfFeOhBhBhBfKfHaGaHaHaHfIaHaHaHaGfJaHaGaHaHaHaHdKfLdKfNaFaGaHaHaHaHaHaHaHaHaHdZaGaIaJaGaHaHaHaHaHaHaHaHaHdZaGaIaJaGaHaHaHaHaHaHaGaHaHaGaHaHaHaHaHaHaGaIaJaGdKaHaHaHaHaHaHaHaHaHaGaIaKedfvfPfQfPfveramamfScLcLcLcMamfzfAfTfBajajajaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaZfMhBhBhBfUcieOhBhBfVaZfXfYfZfYfXfXfXfXfXfXkcgbfXfXfXfXfXajgcajgdaTgegegegegegegegegegegegeaVaTgfgfgfgfgfgfgfgfgfgfgfgfgtaTdcdcdcdcjYgtdcdcdcdcdcdcjYgtdcdcdcdcgtaTggggggggggggggggggggggggaVaKajajajbGajajajghcLdtamamamdrcLgjfcajajajajajajaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaZfWdAhBhBdYeigkhBfDekaPglglglglgmfXkdgngnkegpgbgogqgrgsfXajfzajLwaKgegugvgwgxAOJlgxgygzgAgeWnaKgfdsbsgDgEgEgEgEgEgEgFgfWnaKdchZgtgtgtgtgteZjXgteZgtgtgtgtgthZdcWnaKgggGgGgHgIgJgKgJgLgMgNggWnbZajamatatatamajamamamamamamamameKeLeMajajeNajajajajajaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaZdldAhBhBhBhBhBhBhraZaPgRglglglhQfXgngnkdgSgpgbgbgbgbgTfXajfzajgdaKgegUgVgygxgygygxgygVgWgeaEaKgfdugDgEgYdvhahbhHhdhegfaEbZdchPgtgtgtgtgtgtgtgtgtgtgtgtgtgthndcaEbZgghfgGhghhhihjhhhggMhkggaEaKajamamamamamajamamamamamamWhithpamefajhqamehajajajaDaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaPaZhscThBhMhBhBhwcRaZaPhthtglhthtfXgngngngSgphukhhvhugbfXajfzajhxcvhyhyhyhyhyhyhyhyhyhyhzhycucvhAdwhChDhDhEhFhGimhdhIhAcucvgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtcucvhJhJhKhJhJhKhJhJhJhKhLhjaEaKajamamamamamajcIfaeXZNeYamamameKamdxajamhTcPdzajaCaDaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaPaZaZaZcgchcgcichcRaZaPcjckasclcmiAcnaSaScpcogPcpaSaScqijajaoajaEcrcscscscscscscscscscsctcscucvbwcweDcxcycyczcAcBcCcDbwcucvgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtcucvcEcEcEcEcEcEcEcEcEcEcFcGaEaKajcHaLaLaLccajcIcJamamcKcLcLcLcMamcNajamcOcPcQajaCaDaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaPaZcScTcUdAhBcUfdcRaZaPcVcWasbNasasanbPanancXcYananbPananajamajaEcZdabnkabnbndbkbalddbnbndWaEaKdXdgdhcycycydidjcBcCdkdXaEaKkfgtgtgtgtgtgthNgtgtgtgtgtgtgtgtgtkfaEaKdfcGcGcGcGdmdncGcGcGcGdfaEbZajdoaLdpaLdqajcIdrcLtWdtamamamcJamdxajamdycPdzajaCaDaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaZdlhwhBhBhBhBhBhBdBaZaPdDdEdFbMdGasbjbjbjanhlaSanbjbjbjanajamajaEcZaUdIdJdJbrdLbnbTbTkadMaUaEaKaWdNeDcydOcycycycBcCdPaWaEaKdchPgtgtgtgtgtgtgtgtgtgtgtgtgtgthndcaEaKaXdQbDbFdRdRbBbFdSdTdUaXaEaKajccaLaLaLdVajamamamamamamWhiteeamefajegamehajajajaDaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaZdChwhBhBdYeiejhBhBekaZbMbMeneoepasaQeqaQandHaSanaQeqaQanajamajzVcZaUeseteuevewexeyezeAeBaUWnaKaWeCbXeDeDeDeDeDeDeDeEaWWnaKdchZgtgtgtgtgtiTjXgtiTgtgtgtgtgthZdcWnaKaXbAbFbFbAeFeGdSeHeHbAaXWnaKajccaLaLaLccajamamamamamamamameKeLeMajajeNajajajajajaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaZelhBhBhBemcieOcUhBePaZasaseSasasasananananeTaSanananananajaqajeUeVaUaUaUaUaUaUaUaUaUaUaUaUaVaKaWaWaWaWaWaWaWaWaWaWaWaWaVaTdcdcdcdcjYgtdcdcdcdcdcdcjYgtdcdcdcdcaVaTaXaXaXaXaXaXaXaXaXaXaXaXaVaKajajajbGajajajeWeXeYamamamfaeXfbfcajajajajajajaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPeQhwhBeRhBdAcieOhBiMfefffhhMfjfkfkfkflfkfkfifmfkfifkiSfkfkfnfofhfpfqfravavavavaxavavavavavfrfsfqftavavavaviXavaxavavavfrfufqfravavavavavavfravavfravavavavavavfrfufqfravaxavavavavavavavaxfrfuaKfvfvfwjbfwfvamamamfxeXeXeXfyamfzfAamfBajajajaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPfghwhBfCfDknfFeOhBhBhBfKfHaGaHaHaHfIkoaHaHaGfJaHkpaHaHaHaHdKfLdKfNaFaGaHaHaHaHaHaHaHaHaHdZaGaIaJaGaHaHaHaHaHaHaHaHaHdZaGaIaJaGaHaHaHaHaHaHaGaHaHaGaHaHaHaHaHaHaGaIaJaGdKaHaHaHaHaHaHaHaHaHaGaIaKedfvfPfQfPfveramamfScLcLcLcMamfzfAfTfBajajajaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaZfMhBhBhBfUcieOcUhBfVaZfXfYfZfYfXfXfXfXfXfXkcgbfXfXfXfXfXajgcajgdaTgegegegegegegegegegegegeaVaTgfgfgfgfgfgfgfgfgfgfgfgfgtaTdcdcdcdcjYgtdcdcdcdcdcdcjYgtdcdcdcdcgtaTggggggggggggggggggggggggaVaKajajajbGajajajghcLdtamamamdrcLgjfcajajajajajajaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaZfWhwhBhBdYeigkhBfDekaPglglglglgmfXkdgngnkegpgbgogqgrgsfXajfzajLwaKgegugvgwgxAOJlgxgygzgAgeWnaKgfdsbsgDgEgEgEgEgEgEgFgfWnaKdchZgtgtgtgtgteZjXgteZgtgtgtgtgthZdcWnaKgggGgGgHgIgJgKgJgLgMgNggWnbZajamatatatamajamamamamamamamameKeLeMajajeNajajajajajaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaZdlhwhBhBhBhBhBhBhraZaPgRglglglhQfXgngnkdgSgpgbgbgbgbgTfXajfzajgdaKgegUgVgygxgygygxgygVgWgeaEaKgfdugDgEgYdvhahbhHhdhegfaEbZdchPgtgtgtgtgtgtgtgtgtgtgtgtgtgthndcaEbZgghfgGhghhhihjhhhggMhkggaEaKajamamamamamajamamamamamamWhithpamefajhqamehajajajaDaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaPaZhscTcUkqhBcUkvcRaZaPhthtglhthtfXgngngngSgphukhhvhugbfXajfzajhxcvhyhyhyhyhyhyhyhyhyhyhzhycucvhAdwhChDhDhEhFhGimhdhIhAcucvgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtcucvhJhJhKhJhJhKhJhJhJhKhLhjaEaKajamamamamamajcIfaeXZNeYamamameKamdxajamhTcPdzajaCaDaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaPaZaZaZhUhVhUhWchhcaZaPhthtglhthtfXhXkjhYkkgphuhviahugbfXajibajaEaKicididididieifidididideaaEaKebihiigEdeikilikhHhdihebaEaKgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtaEaKechjhjhggLioiphjhjhjhjecaEaKajamamamamamajcIkmisitiuiviviviwitixajamiycPcQajaCaDaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaPaPaPiqaPaPaPaPaPaPiqaPizhtglhOhtiBiCiDiEiEiFhukhhvhugbiBajfzajiGaKgeiHidididiIiIiIiJiIiKgeaEaKgfiLbUiigEgEgEgEgEgEiNgfaEaKkfgtgtgtgtgtgtgtklgtgtgtgtgtgtgtgtkfaEaKggiOgGhgiPhjhiiQhggMiRggaEaKajatamamamamajajajiUajajamamamamamamcdamceamamajcfaDaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPglglglglglfXiVgpiWgbgbgTgbgbgbiYfXajfzajaEaKgeiZjaBagujcjdjejfjgjhgeaEaKgfjihAhAhAjjhAhAhAhAjkgfaEaKdcgtgtgtgtgtgtkggtgtgtgtgtgtgtgtgtdcaEaKgggGgGjljmjnjojmjlgNgNggaEaKfvatamamamamajjpjqjramajamamamamamamajbIbiamambKaCaDaaaaaaaaaaaaaa

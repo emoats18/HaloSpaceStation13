@@ -13,6 +13,7 @@
 	selection_color = "#ff0000"
 	access = list(access_innie,access_innie_prowler,access_innie_asteroid, access_soe)
 	//is_whitelisted = 1
+	spawnpoint_override = "Innie Base Spawns"
 	whitelisted_species = list(/datum/species/human)
 
 /datum/job/soe_commando_officer
@@ -29,6 +30,7 @@
 	selection_color = "#ff0000"
 	access = list(access_innie,access_innie_prowler,access_innie_asteroid,access_innie_asteroid_boss, access_soe, access_soe_officer)
 	//is_whitelisted = 1
+	spawnpoint_override = "Innie Base Spawns"
 	whitelisted_species = list(/datum/species/human)
 
 /datum/job/soe_commando_captain
@@ -44,4 +46,5 @@
 	selection_color = "#ff0000"
 	access = list(access_innie,access_innie_prowler,access_innie_asteroid,access_innie_asteroid_boss,access_soe, access_soe_officer, access_soe_captain)
 	//is_whitelisted = 1
+	spawnpoint_override = "Innie Base Spawns"
 	whitelisted_species = list(/datum/species/human)

@@ -383,11 +383,13 @@
         /obj/item/clothing/head/helmet/innie/medium/brown,
         /obj/item/clothing/suit/storage/innie/medium/brown,
         /obj/item/clothing/shoes/innie_boots/medium/brown,
+        /obj/item/clothing/gloves/x52/x52gloves,
         /obj/item/clothing/mask/innie/shemagh)
   can_hold = list(
         /obj/item/clothing/head/helmet/innie/medium/brown,
         /obj/item/clothing/suit/storage/innie/medium/brown,
         /obj/item/clothing/shoes/innie_boots/medium/brown,
+        /obj/item/clothing/gloves/x52/x52gloves,
         /obj/item/clothing/mask/innie/shemagh)
 
 /obj/item/weapon/storage/box/large/armorset/inniearmor/black
@@ -396,11 +398,13 @@
         /obj/item/clothing/head/helmet/innie/medium/black,
         /obj/item/clothing/suit/storage/innie/medium/black,
         /obj/item/clothing/shoes/innie_boots/medium/black,
+        /obj/item/clothing/gloves/x52/x52gloves,
         /obj/item/clothing/mask/innie/shemagh)
     can_hold = list(
         /obj/item/clothing/head/helmet/innie/medium/black,
         /obj/item/clothing/suit/storage/innie/medium/black,
         /obj/item/clothing/shoes/innie_boots/medium/black,
+        /obj/item/clothing/gloves/x52/x52gloves,
         /obj/item/clothing/mask/innie/shemagh)
 
 /obj/item/weapon/storage/box/large/armorset/inniearmor/blue
@@ -409,11 +413,13 @@
         /obj/item/clothing/head/helmet/innie/medium/blue,
         /obj/item/clothing/suit/storage/innie/medium/blue,
         /obj/item/clothing/shoes/innie_boots/medium/blue,
+        /obj/item/clothing/gloves/x52/x52gloves,
         /obj/item/clothing/mask/innie/shemagh)
   can_hold = list(
         /obj/item/clothing/head/helmet/innie/medium/blue,
         /obj/item/clothing/suit/storage/innie/medium/blue,
         /obj/item/clothing/shoes/innie_boots/medium/blue,
+        /obj/item/clothing/gloves/x52/x52gloves,
         /obj/item/clothing/mask/innie/shemagh)
 
 /obj/item/weapon/storage/box/large/armorset/inniearmor/white
@@ -422,11 +428,13 @@
         /obj/item/clothing/head/helmet/innie/medium/white,
         /obj/item/clothing/suit/storage/innie/medium/white,
         /obj/item/clothing/shoes/innie_boots/medium/white,
+        /obj/item/clothing/gloves/x52/x52gloves,
         /obj/item/clothing/mask/innie/shemagh)
   can_hold = list(
         /obj/item/clothing/head/helmet/innie/medium/white,
         /obj/item/clothing/suit/storage/innie/medium/white,
         /obj/item/clothing/shoes/innie_boots/medium/white,
+        /obj/item/clothing/gloves/x52/x52gloves,
         /obj/item/clothing/mask/innie/shemagh)
 
 /obj/item/weapon/storage/box/large/armorset/inniearmor/green
@@ -435,11 +443,13 @@
         /obj/item/clothing/head/helmet/innie/medium/green,
         /obj/item/clothing/suit/storage/innie/medium/green,
         /obj/item/clothing/shoes/innie_boots/medium/green,
+        /obj/item/clothing/gloves/x52/x52gloves,
         /obj/item/clothing/mask/innie/shemagh)
   can_hold = list(
         /obj/item/clothing/head/helmet/innie/medium/green,
         /obj/item/clothing/suit/storage/innie/medium/green,
         /obj/item/clothing/shoes/innie_boots/medium/green,
+        /obj/item/clothing/gloves/x52/x52gloves,
         /obj/item/clothing/mask/innie/shemagh)
 
 //soe

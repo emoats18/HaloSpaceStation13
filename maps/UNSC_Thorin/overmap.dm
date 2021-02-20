@@ -9,3 +9,8 @@
 	vessel_mass = 2.75
 
 	map_bounds = list(2,76,76,26)
+
+/obj/machinery/button/toggle/alarm_button/urf_flagship_alarm
+	alarm_sound = 'sound/misc/TestLoop1.ogg'
+	alarm_loop_time = 7 SECONDS
+	area_base = /area/urf_flagship

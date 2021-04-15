@@ -97,7 +97,7 @@
 	selection_color = "#0A0A95"
 	access = list(142,144,110,192,309)
 	spawnpoint_override = "UNSC Bertels ODST Spawn"
-	//is_whitelisted = 1
+	is_whitelisted = 1
 
 /datum/job/bertelsODSTO
 	title = "Orbital Drop Shock Trooper Officer"
@@ -113,4 +113,4 @@
 	selection_color = "#0A0A95"
 	access = list(142,144,145,110,192,300,306,309)
 	spawnpoint_override = "UNSC Bertels ODST Officer Spawn"
-	//is_whitelisted = 1
+	is_whitelisted = 1

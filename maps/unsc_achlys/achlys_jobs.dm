@@ -23,7 +23,7 @@ GLOBAL_LIST_EMPTY(achlys_prison_spawns)
 	outfit_type = /decl/hierarchy/outfit/job/unsc_achlys/sangheili
 	whitelisted_species = list(/datum/species/sangheili)
 	spawnpoint_override = "Achlys Prison"
-	//faction_whitelist = "Covenant"
+	faction_whitelist = "Covenant"
 	latejoin_at_spawnpoints = TRUE
 	intro_blurb = "You are a prisoner on a human ship, captured and intended to be used for experiments until one of your brothers escaped and sprung the entire ship from captivity, human and sangheili alike. Unfortunately, the Flood escaped with you."
 

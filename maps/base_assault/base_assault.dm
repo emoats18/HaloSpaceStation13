@@ -1,5 +1,4 @@
 #include "base_assault_gm.dm"
-#define RESPAWN_TIME 5
 
 /datum/map/base_assault
 	name = "UNSC Outpost"
@@ -76,24 +75,24 @@
 	/datum/job/covenant/huragok,
 	/datum/job/covenant/sangheili_minor,
 	/datum/job/covenant/sangheili_major,
-	///datum/job/covenant/sangheili_ultra,
+	/datum/job/covenant/sangheili_ultra,
 	/datum/job/covenant/sangheili_shipmaster,
 	/datum/job/covenant/kigyarminor,
 	/datum/job/covenant/unggoy_minor,
 	/datum/job/covenant/unggoy_major,
-	///datum/job/covenant/unggoy_ultra,
-	///datum/job/covenant/unggoy_deacon,
+	/datum/job/covenant/unggoy_ultra,
+	/datum/job/covenant/unggoy_deacon,
 	/datum/job/covenant/unggoy_heavy,
 	/datum/job/covenant/skirmmurmillo,
 	/datum/job/covenant/skirmcommando,
 	/datum/job/covenant/skirmchampion,
 	/datum/job/covenant/brute_minor,
 	/datum/job/covenant/brute_major,
-	///datum/job/covenant/brute_captain,
+	/datum/job/covenant/brute_captain,
 	/datum/job/covenant/yanmee_minor,
 	/datum/job/covenant/yanmee_major,
-	///datum/job/covenant/yanmee_ultra,
-	///datum/job/covenant/yanmee_leader,
+	/datum/job/covenant/yanmee_ultra,
+	/datum/job/covenant/yanmee_leader,
 	/datum/job/covenant/mgalekgolo,
 	)
 

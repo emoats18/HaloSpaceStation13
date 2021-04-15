@@ -1,6 +1,6 @@
 #define WORLD_ICON_SIZE 32
 
-/var/server_name = "Halo : Spacestation Evolved 2 (Unofficial)"
+/var/server_name = "Halo Spacestation Evolved"
 
 /var/game_id = null
 /hook/global_init/proc/generate_gameid()
@@ -226,7 +226,7 @@ var/world_topic_spam_protect_time = world.timeofday
 			s["admins"] = admins
 
 		return list2params(s)
-
+		
 	else if(T == "revision")
 		var/list/L = list()
 		L["gameid"] = game_id
@@ -608,7 +608,7 @@ var/world_topic_spam_protect_time = world.timeofday
 		s += "<b>[config.server_name]</b> &#8212; "
 
 	s += "<b>[station_name()]</b>";
-	s += " (<a href=\"https://discord.gg/Td86mqgh7f\">Discord</a>)"
+	s += " (<a href=\"https://projectunsc.org\">Forums</a>|<a href=\"https://discord.gg/XEzwgBD\">Discord</a>)"
 
 	var/list/features = list()
 

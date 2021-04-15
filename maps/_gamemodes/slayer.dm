@@ -1,5 +1,5 @@
 
-#define RESPAWN_TIME 5
+#define RESPAWN_TIME 300
 
 /datum/game_mode/slayer
 	name = "Free For All Slayer"

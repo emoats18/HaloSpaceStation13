@@ -55,4 +55,4 @@
 	spawnpoint_override = "Listening Post Commander Spawn"
 	announced = FALSE
 	is_whitelisted = 0
-	faction_whitelist = "Insurrection"
+	//faction_whitelist = "Insurrection"

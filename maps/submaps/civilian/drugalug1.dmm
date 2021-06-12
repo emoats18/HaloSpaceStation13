@@ -1,0 +1,148 @@
+"aa" = (/turf/unsimulated/wall,/area/submaps/civilian/drugden)
+"ab" = (/turf/simulated/wall,/area/submaps/civilian/drugden)
+"ac" = (/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"ad" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"ae" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"af" = (/obj/effect/decal/cleanable/blood,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"ag" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/planet/dirt,/area/submaps/civilian/drugden)
+"ah" = (/obj/effect/decal/cleanable/dirt,/obj/random/junk,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"ai" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/planet/dirt,/area/submaps/civilian/drugden)
+"aj" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/blood,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"ak" = (/obj/item/weapon/material/kitchen/utensil/knife/boot,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"al" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"am" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"an" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/blood,/turf/simulated/floor/planet/dirt,/area/submaps/civilian/drugden)
+"ao" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small,/turf/simulated/floor/planet/dirt,/area/submaps/civilian/drugden)
+"ap" = (/turf/simulated/floor/planet/dirt,/area/submaps/civilian/drugden)
+"aq" = (/obj/effect/decal/cleanable/blood,/turf/simulated/floor/planet/dirt,/area/submaps/civilian/drugden)
+"ar" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small{icon_state = "bulb1"; dir = 4},/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"as" = (/obj/machinery/chemical_dispenser/full,/obj/item/weapon/reagent_containers/glass/beaker,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"at" = (/obj/machinery/chem_master,/obj/machinery/light/small{icon_state = "bulb1"; dir = 1},/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"au" = (/obj/machinery/chemical_dispenser/full,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"av" = (/obj/effect/decal/cleanable/cobweb2,/obj/effect/decal/cleanable/dirt,/obj/machinery/chem_master,/obj/machinery/light/small{icon_state = "bulb1"; dir = 1},/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aw" = (/obj/random/junk,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"ax" = (/obj/structure/closet/crate/trashcart,/obj/effect/decal/cleanable/cobweb,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"ay" = (/obj/structure/closet/crate/trashcart,/obj/machinery/light/small{icon_state = "bulb1"; dir = 1},/obj/item/weapon/airlock_electronics,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"az" = (/obj/structure/table/rack,/obj/effect/landmark/instance_loot,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aA" = (/obj/structure/table/rack,/obj/machinery/light/small{icon_state = "bulb1"; dir = 1},/obj/effect/landmark/instance_loot,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aB" = (/obj/effect/decal/cleanable/cobweb2,/obj/effect/decal/cleanable/dirt,/obj/item/metalscrap,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aC" = (/obj/item/weapon/handcuffs,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"aD" = (/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aE" = (/obj/effect/decal/cleanable/greenglow,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aF" = (/obj/structure/table/standard,/obj/item/weapon/reagent_containers/dropper,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aG" = (/obj/structure/table/standard,/obj/item/weapon/reagent_containers/glass/beaker,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aH" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aI" = (/obj/effect/decal/cleanable/dirt,/obj/structure/door_assembly,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aJ" = (/obj/effect/decal/cleanable/dirt,/obj/random/junk,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aK" = (/obj/effect/decal/cleanable/generic,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aL" = (/obj/structure/safe/floor,/obj/structure/closet/secure_closet/freezer/kitchen,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aM" = (/obj/item/weapon/storage/box/masks,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aN" = (/obj/effect/decal/cleanable/dirt,/obj/effect/landmark/instance_defender,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aO" = (/obj/effect/decal/cleanable/flour,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aP" = (/obj/effect/decal/cleanable/generic,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aQ" = (/obj/effect/decal/cleanable/dirt,/obj/item/ammo_magazine/mc9mmt,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aR" = (/obj/structure/door_assembly,/obj/item/weapon/airlock_electronics,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aS" = (/obj/effect/landmark/instance_boss,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aT" = (/obj/effect/decal/cleanable/ash,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aU" = (/obj/effect/decal/cleanable/dirt,/obj/effect/landmark/instance_loot,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aV" = (/obj/structure/reagent_dispensers/fueltank,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aW" = (/obj/item/metalscrap,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"aX" = (/obj/effect/decal/cleanable/dirt,/obj/effect/landmark/instance_defender,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"aY" = (/obj/item/stack/material/glass/ten,/obj/item/weapon/airlock_electronics,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"aZ" = (/obj/structure/table/rack,/obj/item/ammo_magazine/c38,/obj/machinery/light/small{icon_state = "bulb1"; dir = 4},/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"ba" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small{icon_state = "bulb1"; dir = 8},/turf/simulated/floor/planet/dirt,/area/submaps/civilian/drugden)
+"bb" = (/obj/effect/landmark/instance_defender,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"bc" = (/obj/effect/landmark/instance_loot,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"bd" = (/obj/effect/decal/cleanable/dirt,/obj/structure/table/rack,/obj/item/stack/material/steel/ten,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"be" = (/obj/structure/table/rack,/obj/item/weapon/storage/box/syringes,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"bf" = (/obj/structure/table/rack,/obj/item/weapon/reagent_containers/syringe/drugs,/obj/item/weapon/reagent_containers/syringe/drugs,/obj/item/weapon/reagent_containers/syringe/drugs,/obj/item/weapon/reagent_containers/syringe/drugs,/obj/item/weapon/reagent_containers/syringe/drugs,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"bg" = (/obj/effect/decal/cleanable/molten_item,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"bh" = (/obj/structure/electric_fence/ew,/turf/simulated/floor/planet/dirt,/area/submaps/civilian/drugden)
+"bi" = (/obj/effect/decal/cleanable/dirt,/obj/item/weapon/material/butterflyblade,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"bj" = (/obj/effect/decal/cleanable/dirt,/obj/structure/closet/bombcloset,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"bk" = (/obj/machinery/light/small{icon_state = "bulb1"; dir = 4},/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"bl" = (/obj/structure/table/rack,/obj/item/weapon/reagent_containers/syringe/steroid,/obj/item/weapon/reagent_containers/syringe/steroid,/obj/item/weapon/reagent_containers/syringe/steroid,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"bm" = (/obj/structure/table/rack,/obj/machinery/light/small,/obj/random/drinkbottle,/obj/random/drinkbottle,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"bn" = (/obj/structure/table/standard,/obj/machinery/reagentgrinder,/obj/machinery/light/small,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"bo" = (/obj/structure/table/standard,/obj/item/weapon/reagent_containers/spray/luminol,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"bp" = (/obj/effect/decal/cleanable/dirt,/obj/item/stack/cable_coil,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"bq" = (/obj/effect/decal/cleanable/dirt,/obj/item/weapon/material/shard/shrapnel,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"br" = (/obj/structure/reagent_dispensers/fueltank,/turf/simulated/floor/planet/dirt,/area/submaps/civilian/drugden)
+"bs" = (/obj/machinery/autolathe,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"bt" = (/obj/effect/decal/cleanable/dirt,/obj/item/ammo_magazine/mc9mm,/obj/machinery/light/small,/turf/simulated/floor/decor{icon_state = "grooved2"},/area/submaps/civilian/drugden)
+"bu" = (/obj/structure/door_assembly,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"bv" = (/obj/effect/decal/cleanable/dirt,/obj/item/weapon/storage/toolbox/mechanical,/obj/item/weapon/airlock_electronics,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"bw" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/planet/dirt,/area/submaps/civilian/drugden)
+"bx" = (/obj/structure/dogbed,/mob/living/simple_animal/dog{stop_automated_movement = 1},/turf/simulated/floor/planet/dirt,/area/submaps/civilian/drugden)
+"by" = (/obj/machinery/light/small{icon_state = "bulb1"; dir = 1},/turf/simulated/floor/pavement/empty,/area/submaps/civilian/drugden)
+"bz" = (/obj/machinery/light/small{icon_state = "bulb1"; dir = 1},/turf/simulated/floor/planet/dirt,/area/submaps/civilian/drugden)
+"bA" = (/obj/effect/decal/cleanable/dirt,/obj/item/metalscraps,/obj/item/weapon/beartrap{alpha = 50; anchored = 1; deployed = 1; icon_state = "beartrap1"; name = "rusted mechanical trap"},/turf/simulated/floor/planet/dirt,/area/submaps/civilian/drugden)
+"bB" = (/obj/effect/decal/cleanable/dirt,/obj/structure/electric_fence,/turf/simulated/floor/planet/dirt,/area/submaps/civilian/drugden)
+"bC" = (/obj/structure/closet/cabinet,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"bD" = (/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"bE" = (/obj/machinery/door/airlock,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"bF" = (/obj/structure/bed/chair/comfy/black,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"bG" = (/obj/structure/bookcase/manuals/medical,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"bH" = (/obj/structure/bookcase/manuals/engineering,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"bI" = (/obj/structure/curtain/open/shower,/obj/machinery/shower,/turf/simulated/floor/tiled/freezer,/area/submaps/civilian/drugden)
+"bJ" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"bK" = (/obj/effect/landmark/instance_defender,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"bL" = (/obj/structure/table/woodentable,/obj/effect/landmark/instance_loot,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"bM" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"bN" = (/obj/structure/sink{dir = 8; icon_state = "sink"; pixel_x = -14; pixel_y = 0},/turf/simulated/floor/tiled/freezer,/area/submaps/civilian/drugden)
+"bO" = (/obj/machinery/door/airlock,/turf/simulated/floor/tiled/freezer,/area/submaps/civilian/drugden)
+"bP" = (/obj/item/weapon/bedsheet/brown,/obj/structure/bed,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"bQ" = (/obj/structure/bed/chair/wood{dir = 4},/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"bR" = (/obj/structure/table/woodentable,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"bS" = (/obj/structure/bed/chair/wood{icon_state = "wooden_chair_preview"; dir = 8},/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"bT" = (/obj/structure/sign/poster{icon_state = "bsposter45"},/turf/simulated/wall,/area/submaps/civilian/drugden)
+"bU" = (/obj/structure/sign/monkey_painting,/turf/simulated/wall,/area/submaps/civilian/drugden)
+"bV" = (/obj/structure/bed/chair/wood{dir = 4},/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"bW" = (/obj/structure/bed/chair/wood{icon_state = "wooden_chair_preview"; dir = 8},/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"bX" = (/obj/structure/sink{dir = 4; icon_state = "sink"; pixel_x = 14},/turf/simulated/floor/tiled/freezer,/area/submaps/civilian/drugden)
+"bY" = (/obj/structure/toilet{icon_state = "toilet00"; dir = 4},/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/tiled/freezer,/area/submaps/civilian/drugden)
+"bZ" = (/turf/simulated/floor,/area/shuttle/offsite_berth_transport)
+"ca" = (/obj/structure/flora/pottedplant/minitree,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/drugden)
+"cb" = (/obj/structure/toilet{icon_state = "toilet00"; dir = 8},/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/tiled/freezer,/area/submaps/civilian/drugden)
+"cc" = (/obj/structure/grille/smallfence{icon_state = "fence2"},/turf/simulated/floor/planet/dirt,/area/submaps/civilian/drugden)
+"cd" = (/obj/structure/grille/smallfence{icon_state = "fence3"},/turf/simulated/floor/planet/dirt,/area/submaps/civilian/drugden)
+"ce" = (/turf/simulated/floor/pavement,/area/submaps/civilian/drugden)
+"cf" = (/obj/machinery/light/street,/turf/simulated/floor/pavement,/area/submaps/civilian/drugden)
+"cg" = (/turf/simulated/floor/road{icon_state = "road"; dir = 1},/area/submaps/civilian/drugden)
+"ch" = (/turf/simulated/floor/road/empty,/area/submaps/civilian/drugden)
+"ci" = (/turf/simulated/floor/road/markings{icon_state = "road_marking"; dir = 4},/area/submaps/civilian/drugden)
+"cj" = (/turf/simulated/floor/road/markings{icon_state = "road_marking"; dir = 8},/area/submaps/civilian/drugden)
+"cq" = (/obj/effect/shuttle_landmark/offsite_berth_transport,/turf/simulated/floor,/area/shuttle/offsite_berth_transport)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaababababababababababababababababababababababababababababaa
+aaabacacacadadacacacacadaeadadafacagahagagadadagaiadaiajabaa
+aaabakaeafacacacaladacacaeaeadamadanaiaiaiaiaoaeaiadagapabaa
+aaabacaeababababababababacadababababacapabababababaqagaeabaa
+aaabafarabasatababauavabawadabaxayabapapabazaAaBababajadabaa
+aaabajaCabaDaEaFaGaHaDaIacadabaJaKabacacabaHaHaDaLabagadabaa
+aaabadafabaDaMaNaDaOaDabadaeacacagapapawabaDaPaQaPabaeaiabaa
+aaabadacaRaHaSaTaUaDaVabadadaWaXagadacapaYaDaSaNaZabbaadabaa
+aaabacacabaDbbbcaTaHaDabacadacaoadapacagabaPaNaDbdabagawabaa
+aaabacadabaHaTbebfbgaHaKacacacababbhapagabbiaDaHbjabajahabaa
+aaabacbkabblbmababbnboabacbpacapbqaeacbrabbsbtazababadagabaa
+aaabaeaeababababababababbubvaeagadbwadagabababababbxacadabaa
+aaabacacadbyacacacacbyacacacagadadawagadagbzadagadagapagabaa
+aaabababababababababababababababababababababababababbAbBabaa
+aaababbCbDbDbEbDbDbDbFbGababbHbFbDbDbDbEbDbDbCabababagagabaa
+aabIabbJbKbDabbDbDbKbDbLababbLbDbKbDbDabbDbKbMabbIabagapabaa
+aabNbObDbDbPabbQbRbSbDbDbTbUbDbDbVbRbWabbPbDbDbObXabapagabaa
+aabYabbDbDbLabbVbRbSbDcaababcabDbVbRbSabbLbDbDabcbabagagabaa
+aaabababababababababbEababababbEababababababababababcccdabaa
+aaacacacacacacacacacacacacacacacacacacacacacacacacacacacacaa
+aaacacacacacacacacacacacacacacacacacacacacacacacacacacacacaa
+aacecececececfcececececececececececececfcececececececececeaa
+aacgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgaa
+aachchchchchchchchchchchchchchbZbZbZbZbZbZbZbZchcicicichchaa
+aachchchchchchchchchchchchchchbZbZbZbZbZbZbZbZchcicicichchaa
+aacjcjchcjcjcjchcjcjcjchcjcjcjbZbZbZbZbZbZbZbZchcicicichcjaa
+aachchchchchchchchchchchchchchbZbZbZbZbZbZbZbZchcicicichchaa
+aachchchchchchchchchchchchchchcqbZbZbZbZbZbZbZchcicicichchaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

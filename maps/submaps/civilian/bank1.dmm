@@ -1,0 +1,114 @@
+"aa" = (/turf/unsimulated/wall,/area/submaps/civilian/civilian_bank)
+"ab" = (/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"ac" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"ad" = (/obj/structure/grille,/obj/structure/window/reinforced/treated,/obj/structure/window/reinforced/treated{icon_state = "rwindow"; dir = 8},/obj/structure/window/reinforced/treated{icon_state = "rwindow"; dir = 1},/obj/structure/window/reinforced/full,/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"ae" = (/obj/structure/grille,/obj/structure/window/reinforced/treated,/obj/structure/window/reinforced/treated{icon_state = "rwindow"; dir = 1},/obj/structure/window/reinforced/full,/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"af" = (/obj/structure/grille,/obj/structure/window/reinforced/treated,/obj/structure/window/reinforced/treated{icon_state = "rwindow"; dir = 4},/obj/structure/window/reinforced/treated{icon_state = "rwindow"; dir = 1},/obj/structure/window/reinforced/full,/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"ag" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"ah" = (/turf/simulated/floor/decor{icon_state = "tiles3"},/area/submaps/civilian/civilian_bank)
+"ai" = (/obj/structure/flora/pottedplant/minitree,/turf/simulated/floor/decor{icon_state = "tiles3"},/area/submaps/civilian/civilian_bank)
+"aj" = (/turf/simulated/wall/r_wall,/area/submaps/civilian/civilian_bank)
+"ak" = (/turf/simulated/floor/pavement/empty,/area/submaps/civilian/civilian_bank)
+"al" = (/turf/simulated/floor/pavement{icon_state = "pavement"; dir = 4},/area/submaps/civilian/civilian_bank)
+"am" = (/turf/simulated/floor/road{icon_state = "road"; dir = 8},/area/submaps/civilian/civilian_bank)
+"an" = (/turf/simulated/floor/road/empty,/area/submaps/civilian/civilian_bank)
+"ao" = (/turf/simulated/floor/road/markings,/area/submaps/civilian/civilian_bank)
+"ap" = (/obj/machinery/camera{icon_state = "camera"; dir = 4},/obj/structure/bed/chair/comfy/black,/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"aq" = (/obj/effect/landmark/instance_defender,/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"ar" = (/obj/structure/bed/chair/comfy/black,/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"as" = (/obj/machinery/door/airlock/glass,/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"at" = (/obj/structure/bed/chair/office/dark{icon_state = "officechair_dark_preview"; dir = 4},/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"au" = (/obj/structure/table/standard,/obj/machinery/door/window/brigdoor,/obj/machinery/door/window/brigdoor/westright,/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"av" = (/obj/machinery/light/street,/turf/simulated/floor/pavement{icon_state = "pavement"; dir = 4},/area/submaps/civilian/civilian_bank)
+"aw" = (/obj/structure/table/standard,/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"ax" = (/obj/structure/table/standard,/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"ay" = (/obj/machinery/camera{icon_state = "camera"; dir = 8},/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/decor{icon_state = "tiles3"},/area/submaps/civilian/civilian_bank)
+"az" = (/obj/machinery/camera{icon_state = "camera"; dir = 4},/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/decor{icon_state = "tiles3"},/area/submaps/civilian/civilian_bank)
+"aA" = (/obj/effect/landmark/instance_defender,/turf/simulated/floor/decor{icon_state = "tiles3"},/area/submaps/civilian/civilian_bank)
+"aB" = (/turf/simulated/floor,/area/shuttle/offsite_berth_transport)
+"aC" = (/obj/effect/shuttle_landmark/offsite_berth_transport,/turf/simulated/floor,/area/shuttle/offsite_berth_transport)
+"aD" = (/turf/simulated/floor/road/markings{icon_state = "road_marking"; dir = 8},/area/submaps/civilian/civilian_bank)
+"aE" = (/obj/structure/bed/chair/comfy/black{icon_state = "comfychair_preview"; dir = 1},/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"aF" = (/obj/machinery/door/airlock/glass,/turf/simulated/floor/decor{icon_state = "tiles3"},/area/submaps/civilian/civilian_bank)
+"aG" = (/obj/machinery/camera{icon_state = "camera"; dir = 4},/obj/structure/bed/chair/comfy/black{icon_state = "comfychair_preview"; dir = 1},/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"aH" = (/obj/machinery/light{icon_state = "tube1"; dir = 1},/turf/simulated/floor/decor{icon_state = "tiles3"},/area/submaps/civilian/civilian_bank)
+"aI" = (/obj/machinery/camera,/turf/simulated/floor/decor{icon_state = "tiles3"},/area/submaps/civilian/civilian_bank)
+"aJ" = (/obj/machinery/camera,/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"aK" = (/obj/structure/table/woodentable,/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"aL" = (/obj/structure/table/woodentable,/obj/machinery/light{icon_state = "tube1"; dir = 1},/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"aM" = (/obj/structure/reagent_dispensers/water_cooler,/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"aN" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/decor{icon_state = "tiles3"},/area/submaps/civilian/civilian_bank)
+"aO" = (/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"aP" = (/obj/structure/bed/chair/comfy/black{icon_state = "comfychair_preview"; dir = 8},/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"aQ" = (/obj/structure/flora/pottedplant/orientaltree,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"aR" = (/obj/machinery/vending/cola,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"aS" = (/obj/structure/flora/pottedplant/minitree,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"aT" = (/obj/machinery/vending/coffee,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"aU" = (/obj/structure/bed/chair/comfy/black{icon_state = "comfychair_preview"; dir = 4},/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"aV" = (/obj/effect/landmark/instance_defender,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"aW" = (/obj/machinery/light,/turf/simulated/floor/decor{icon_state = "tiles3"},/area/submaps/civilian/civilian_bank)
+"aX" = (/obj/structure/table/woodentable,/obj/machinery/light,/turf/simulated/floor/carpet/blue,/area/submaps/civilian/civilian_bank)
+"aY" = (/obj/machinery/door/airlock/security,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"aZ" = (/obj/structure/filingcabinet/security,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"ba" = (/obj/machinery/computer/skills,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"bb" = (/obj/structure/filingcabinet/filingcabinet,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"bc" = (/obj/structure/bed/chair/office/dark{icon_state = "officechair_dark_preview"; dir = 4},/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"bd" = (/obj/machinery/computer/account_database,/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"be" = (/obj/structure/filingcabinet/filingcabinet,/obj/machinery/camera{icon_state = "camera"; dir = 4},/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"bf" = (/obj/structure/table/standard,/obj/item/modular_computer/laptop/preset/custom_loadout/advanced,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"bg" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/tech,/area/submaps/civilian/civilian_bank)
+"bh" = (/obj/machinery/camera/motion,/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/tech,/area/submaps/civilian/civilian_bank)
+"bi" = (/obj/structure/safe,/obj/machinery/camera/motion{icon_state = "camera"; dir = 4},/turf/simulated/floor/tech,/area/submaps/civilian/civilian_bank)
+"bj" = (/obj/structure/closet/secure_closet/freezer/money,/turf/simulated/floor/tech,/area/submaps/civilian/civilian_bank)
+"bk" = (/obj/structure/safe,/obj/machinery/light{icon_state = "tube1"; dir = 1},/turf/simulated/floor/tech,/area/submaps/civilian/civilian_bank)
+"bl" = (/obj/structure/safe,/turf/simulated/floor/tech,/area/submaps/civilian/civilian_bank)
+"bm" = (/obj/item/modular_computer/console/preset/security,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"bn" = (/obj/machinery/door/airlock/vault/bolted,/turf/simulated/floor/tech,/area/submaps/civilian/civilian_bank)
+"bo" = (/turf/simulated/floor/tech,/area/submaps/civilian/civilian_bank)
+"bp" = (/obj/effect/landmark/instance_defender,/turf/simulated/floor/tech,/area/submaps/civilian/civilian_bank)
+"bq" = (/obj/effect/landmark/instance_loot,/turf/simulated/floor/tech,/area/submaps/civilian/civilian_bank)
+"br" = (/obj/structure/table/standard,/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"bs" = (/obj/structure/bed/chair/office/dark{icon_state = "officechair_dark_preview"; dir = 8},/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"bt" = (/obj/effect/landmark/instance_boss,/turf/simulated/floor/tech,/area/submaps/civilian/civilian_bank)
+"bu" = (/obj/machinery/computer/secure_data,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"bv" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/tech,/area/submaps/civilian/civilian_bank)
+"bw" = (/obj/structure/safe,/obj/machinery/light,/turf/simulated/floor/tech,/area/submaps/civilian/civilian_bank)
+"bx" = (/obj/machinery/door/airlock/security{name = "Security"},/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"by" = (/obj/structure/closet/secure_closet/security,/obj/machinery/camera{icon_state = "camera"; dir = 8},/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"bz" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"bA" = (/obj/structure/closet/secure_closet/security,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"bB" = (/obj/machinery/vending/security,/turf/simulated/floor/decor{icon_state = "wood14"},/area/submaps/civilian/civilian_bank)
+"bC" = (/obj/effect/landmark/instance_defender,/turf/simulated/floor/pavement/empty,/area/submaps/civilian/civilian_bank)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaababababacadaeafagahahahahahahahaiajakakalamanananaoananaa
+aaapabaqarabasatauabahahahahahahahahajakakavamanananaoananaa
+aaawababaxacadaeafagahahayajazaAahahajakakalamananananaDaDaa
+aaaEababaEabasatauabahahahahahahahahaFakakalamananananananaa
+aaabababababadaeafabahahahahahahahahajakakaBaBaBaBaBaBaBaBaa
+aaabababababadaeafabahahahaAahahahahajakakaBaBaBaBaBaBaBaBaa
+aaarabaqarabasatauabahahahahahahahahaFakakaBaBaBaBaBaBaBaBaa
+aaawababaxacadaeafagahahayajazahahahajakakaBaBaBaBaBaBaBaBaa
+aaaGababaEabasatauabahahahahahahahahajakakaCaBaBaBaBaBaBaBaa
+aaababababacadaeafagahahahahahahahaiajakakakakakakakakakakaa
+aaajajasasajajajajajajajajajajasasajajajajajajajajajajajajaa
+aaahaiababaiaHahahaIahahahaHaiababajaJaraKaraLaraKaraMajakaa
+aaaNabababababababababababababababasabaOaOaOaOaOaOaOabajakaa
+aaahababaqabababababababababaqababasabaPaQaRaSaTaQaUabajakaa
+aaaNabababababababababababababababasabaOaOaOaVaOaOaOabajakaa
+aaahaiahahahaWahahahahahahaWahahahajagaEaKaEaXaEaKaEaMajakaa
+aaajajaYajajajajajajajajajajajajajajajajajajajajajajajajakaa
+aaaZaOaOaObaajajajajajajajajajajajajajajajajajajajajajajakaa
+aabbaOaObcbdajajajajajajajajajajajajajajajajajajajajajajakaa
+aabeaOaOaObfajajbgbhajajbibjbkblbjblbjbjblblbkbjblajajajakaa
+aabmaOaVaOaObnbobobpbobnbobqbobobpbobqbobobobobqbpajajajakaa
+aabrbsaOaOaObnbobobobobnbobqbobobobobqbobtbobobqboajajajakaa
+aabuaOaOaOaOajajbgbvajajblbjbwblblblbjblblblbwbjbjajajajakaa
+aaajajbxajajajajajajajajajajajajajajajajajajajajajajajajakaa
+aaajajaOaOaObyajajajajajajajajajajajajajajajajajajajajajakaa
+aaajajbzaOaVbAajajajajajajajajajajajajajajajajajajajajajakaa
+aaajajajbBajajajajajajakakakakakakakakakakakakakakakakbCakaa
+aaajajajajajajajajajakakakbCakakakakakakakakakakakakakakakaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

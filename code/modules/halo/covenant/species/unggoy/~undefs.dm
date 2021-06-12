@@ -1,2 +1,0 @@
-
-#undef GRUNT_GEAR_ICON

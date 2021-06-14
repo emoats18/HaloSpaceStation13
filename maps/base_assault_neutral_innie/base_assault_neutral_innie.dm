@@ -49,8 +49,7 @@
 
 	#include "../UNSC_Thorin/includes.dm"
 
-	#include "../../code/modules/halo/lobby_music/odst_music.dm"
-	#include "../../code/modules/halo/lobby_music/halo_music.dm"
+	#include "../../code/modules/halo/lobby_music/urf_music.dm"
 
 	#include "../../code/modules/halo/supply/unsc.dm"
 	#include "../../code/modules/halo/supply/oni.dm"

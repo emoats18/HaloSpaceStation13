@@ -59,6 +59,7 @@ jobs:
           - base_assault
           - base_assault_unsc_defend_vs_urf
           - base_assault_neutral_base
+          - base_assault_neutral_innie
           - geminus_city         
           #- example
           #- overmap_example

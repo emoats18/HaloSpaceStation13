@@ -45,7 +45,7 @@
 
 	#include "areas.dm"
 	#include "overmap.dm"
-	#include "neutral_city_urf.dmm"
+	#include "neutral_city_innie.dmm"
 
 	#include "../UNSC_Thorin/includes.dm"
 

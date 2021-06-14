@@ -3,7 +3,7 @@
 	name = "KS7-535, Unknown Colony"
 	full_name = "111 Tauri System, UNSC Outpost"
 	system_name = "111 Tauri"
-	path = "base_Assault_neutral_base_urf"
+	path = "base_assault_neutral_innie"
 	station_levels = list()
 	admin_levels = list()
 	accessible_z_levels = list()
@@ -58,7 +58,7 @@
 
 #elif !defined(MAP_OVERRIDE)
 
-	#warn A map has already been included, ignoring Base Assault URF, neutral base
+	#warn A map has already been included, ignoring Base Assault, neutral base innie
 
 #endif
 

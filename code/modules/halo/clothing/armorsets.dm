@@ -492,7 +492,7 @@
 //sniper
 
 /obj/item/weapon/storage/box/large/armorset/soe/sniper
-  name = "SOE Commando Medic Armor Set"
+  name = "SOE Commando Sniper Armor Set"
   startswith = list(
         /obj/item/clothing/head/helmet/urfc/sniper,
         /obj/item/clothing/mask/gas/soebalaclava,

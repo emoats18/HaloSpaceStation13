@@ -2,6 +2,7 @@
 /datum/job/geminus_innie
 	title = "Insurrectionist"
 	spawn_faction = "Insurrection"
+	spawnpoint_override = "Innie Base Spawns"
 	latejoin_at_spawnpoints = 1
 	total_positions = -1
 	spawn_positions = -1
@@ -35,7 +36,6 @@
 	"Insurrectionist Recruiter",\
 	"Insurrectionist Saboteur",\
 	"Insurrectionist Infiltrator")
-	spawnpoint_override = "Innie Base Spawns"
 	whitelisted_species = list(/datum/species/human)
 	loadout_allowed = TRUE
 	var/datum/antagonist/geminus_insurrectionist/antag
@@ -58,6 +58,7 @@
 /datum/job/geminus_innie/officer
 	title = "Insurrectionist Officer"
 	spawn_faction = "Insurrection"
+	spawnpoint_override = "Innie Base Spawns"
 	open_slot_on_death = 1
 	track_players = 1
 	latejoin_at_spawnpoints = 1
@@ -77,6 +78,7 @@
 	title = "Insurrectionist Commander"
 	department_flag = COM
 	spawn_faction = "Insurrection"
+	spawnpoint_override = "Innie Base Spawns"
 	latejoin_at_spawnpoints = 1
 	track_players = 1
 	total_positions = 1
@@ -84,7 +86,6 @@
 	access = list(access_innie, access_innie_boss)
 	selection_color = "#ff0000"
 	//faction_whitelist = "Insurrection"
-	spawnpoint_override = "Innie Base Spawns"
 	alt_titles = null
 	outfit_type = /decl/hierarchy/outfit/job/geminus_innie_leader
 
@@ -96,11 +97,13 @@
 
 /datum/job/geminus_innie/orion_defector
 	title = "Insurrectionist Orion Defector"
+	spawn_faction = "Insurrection"
+	spawnpoint_override = "Innie Base Spawns"
 	outfit_type = /decl/hierarchy/outfit/job/colonist/geminus_innie_orion_defector
 	whitelisted_species = list(/datum/species/orion)
 	total_positions = 2
 	spawn_positions = 2
-	spawnpoint_override = "Innie Base Spawns"
+	access = list(access_innie)
 	//faction_whitelist = "Insurrection"
 
 /datum/job/insurrectionist_ai

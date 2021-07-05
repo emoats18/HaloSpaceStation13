@@ -1,10 +1,10 @@
 /datum/job/unsc/spartan_two
 	title = "Spartan II"
 	outfit_type = /decl/hierarchy/outfit/spartan_two
-	total_positions = 4
-	spawn_positions = 4
+	total_positions = 0
+	spawn_positions = 0
 	account_allowed = 0
-	//is_whitelisted = 1
+	//faction_whitelist = "UNSC"
 	access = list(\
 		access_unsc,\
 		access_unsc_bridge,\
@@ -24,4 +24,4 @@
 		access_unsc_odst,\
 		access_unsc_specialist)
 	whitelisted_species = list(/datum/species/spartan)
-	pop_balance_mult = 2
+	pop_balance_mult = 3

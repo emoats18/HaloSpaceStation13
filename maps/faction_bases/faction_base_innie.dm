@@ -16,11 +16,12 @@ GLOBAL_LIST_EMPTY(innie_base_spawns)
 /datum/spawnpoint/innie_base
 	display_name = "Innie Base Spawns"
 	restrict_job_type = list(\
-		/datum/job/geminus_innie,\
-		/datum/job/geminus_innie/commander,\
-		/datum/job/soe_commando,\
-		/datum/job/soe_commando_officer,\
-		/datum/job/geminus_innie/orion_defector)
+	/datum/job/geminus_innie,
+	/datum/job/geminus_innie/officer,
+	/datum/job/geminus_innie/commander,
+	/datum/job/soe_commando,
+	/datum/job/soe_commando_officer,
+	/datum/job/geminus_innie/orion_defector)
 
 /datum/spawnpoint/innie_base/New()
 	..()
